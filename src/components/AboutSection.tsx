@@ -74,14 +74,9 @@ export default function AboutSection() {
             className="relative h-[400px] lg:h-[500px] w-full"
           >
             <img 
-              src="https://images.unsplash.com/photo-1631549916768-4119b2e5f926?q=80&w=2069&auto=format&fit=crop" 
+              src="/Imaec.png" 
               alt="Pharma Manufacturing" 
               className="rounded-[20px] w-full h-full object-cover overflow-hidden"
-            />
-            <img 
-              src="https://images.unsplash.com/photo-1579154204601-01588f351e67?q=80&w=2070&auto=format&fit=crop" 
-              alt="Quality Control Laboratory" 
-              className="absolute bottom-6 left-6 w-52 rounded-2xl border-[3px] border-white shadow-[0_14px_30px_rgba(15,31,61,0.18)] object-cover"
             />
             <div className="absolute top-6 right-6 bg-[#166534] text-white rounded-full px-2.5 py-1 text-[11px] font-semibold shadow-[0_8px_20px_rgba(15,31,61,0.16)]">
               WHO-GMP Certified ✔
